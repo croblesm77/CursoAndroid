@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProyectoUno</string>
+    <string name="app_welcome">Bienvenido</string>
+    <string name="app_access_bt">Entrar</string>
+    <string name="app_desc">Imagen de fondo</string>
+</resources>
